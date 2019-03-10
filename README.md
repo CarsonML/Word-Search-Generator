@@ -3,11 +3,17 @@ A python script to generate word searches based off a config text file
 
 # Word Search Inputs
 The word search generator would take inputs from a config file stored as a text, in this form:
-dimesion1
+
+dimesion1 
+
 dimension2
+
 word1
+
 word2
+
 word3
+
 ...
 
 # Creating the Word Search
