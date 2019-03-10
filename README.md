@@ -15,3 +15,5 @@ First, I created an empty nested list with the size specified in the config file
 
 # Use of Copy Library
 At one point in my code, I used the copy library instead of just setting two lists equal to eachother. I did this because in python, if lists are set equal, and one is modified, both lists end up being changed. I think this arises because lists are stored as a location in memory, and setting two equal sets their memory location to the same thing. Therefore, when one is changed, both lists reference the same changed object. This was causing my code to fail, since it relies on numerous attepmts to fit words, which require a copy of the working list to be modified. The use of the copy library to make a copy circumvents this issue.
+
+Made while working with Hello World Studio
