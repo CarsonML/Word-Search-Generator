@@ -1,5 +1,5 @@
 # Word-Search-Generator
-A python script to generate word searches based off a config text file
+A python script to generate word searches based off a config text file.
 
 # Word Search Inputs
 The word search generator would take inputs from a config file stored as a text, in this form:
